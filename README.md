@@ -1,4 +1,7 @@
-# api documentation for  jsfeat (v0.0.8)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsfeat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsfeat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsfeat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsfeat)
+# npmdoc-jsfeat
+
+#### basic api documentation for  jsfeat (v0.0.8)  [![npm package](https://img.shields.io/npm/v/npmdoc-jsfeat.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jsfeat) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jsfeat.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jsfeat)
+
 #### JavaScript Computer Vision library
 
 [![NPM](https://nodei.co/npm/jsfeat.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jsfeat)
@@ -43,7 +46,8 @@
     "name": "jsfeat",
     "optionalDependencies": {},
     "scripts": {},
-    "version": "0.0.8"
+    "version": "0.0.8",
+    "bin": {}
 }
 ```
 
